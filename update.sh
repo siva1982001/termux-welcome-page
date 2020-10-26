@@ -1,6 +1,6 @@
 #!/bin/bash
 # Update Script for PowerLevel10K v2.1-Stable
-# Script created by @certified_youtuber
+# Script created by @sivaprasad123
 
 
 dependencies() {
