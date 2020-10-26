@@ -11,7 +11,7 @@ pkg install mpv -y
 
 git clone https://github.com/siva1982001/termux-welcome-page
 
-cd TERMUX-WELCOME
+cd termux-welcome-page
 
 chmod +x *
 
@@ -22,7 +22,7 @@ exit
 
 ## [+]How to remove 
 ```
-cd TERMUX-WELCOME
+cd termux-welcome-page
 
 bash rvt.sh
 ```
@@ -32,5 +32,4 @@ bash rvt.sh
     
 ## [+] Find Me on :
 #### Telegram :https://t.me/sivaprasad123
-#### Join cahnnel and Show your love :https://t.me/scriptKiddiesvR
 ##### Youtube channel :https://www.youtube.com/channel/UC3GHddHFWgBLFlfbL4zIiLw?view_as=subscriber
