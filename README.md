@@ -1,5 +1,5 @@
-# TERMUX-WELCOME PROJECT BY <a href="https://www.youtube.com/c/scriptkiddietelugu"><img src="https://img.shields.io/badge/By%20This-Channel-red.svg?logo=Youtube"></a>
-### Beautify your Termux App With a warm welcome
+# termux-welcome-page PROJECT BY siva
+### Beautiful Termux App With a warm welcome
 
 ## [+] Installation & Usage
 ```
