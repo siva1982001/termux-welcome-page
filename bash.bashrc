@@ -5,9 +5,9 @@ PS1='\[\e[31m\]┌─[\[\e[37m\]\T\[\e[31m\]]─────\e[1;93m[root]\e[0;3
 clear
 mpv /$HOME/TERMUX-WELCOME/terminal.mp3
 clear
-echo -e "Created By @CERTIFIED_YOUTUBER" | lolcat
+echo -e "Created By siva" | lolcat
 echo "----------------------------" | lolcat
-echo "BY script kiddie Youtube channel " | lolcat
+echo "BY spgaming Youtube channel " | lolcat
 echo "╦ ╦╔═╗╦  ╔═╗╔═╗╔╦╗╔═╗"  | lolcat
 echo "║║║║╣ ║  ║  ║ ║║║║║╣  " | lolcat
 echo "╚╩╝╚═╝╩═╝╚═╝╚═╝╩ ╩╚═╝ " | lolcat
@@ -20,6 +20,6 @@ _____  ____  ___   _   _  _     _
 " | lolcat
   
 date | lolcat
-echo "YOUTUBE CHANNEL  :www.youtube.com/c/scriptkiddietelugu" | lolcat
-echo "TELEGRAM GROUP   :t.me/scriptKiddiesvR          " | lolcat
-echo "crafter by       :@certified_youtuber" | lolcat
+echo "YOUTUBE CHANNEL  :www.youtube.com/c/spgamingyt" | lolcat
+echo "TELEGRAM GROUP   :https://t.me/telugu_dubbed_movies_2         " | lolcat
+echo "crafter by       :@Sivaprasad123" | lolcat
