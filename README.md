@@ -31,7 +31,7 @@ bash rvt.sh
 
     
 ## [+] Find Me on :
-#### Telegram :https://t.me/certified_youtuber
+#### Telegram :https://t.me/sivaprsad123
 #### Join cahnnel and Show your love :https://t.me/scriptKiddiesvR
-##### Youtube channel :https://www.youtube.com/c/scriptkiddietelugu
+##### Youtube channel :https://www.youtube.com/c/spgamingyt
 
