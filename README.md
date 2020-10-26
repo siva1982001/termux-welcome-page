@@ -27,7 +27,7 @@ cd TERMUX-WELCOME
 bash rvt.sh
 ```
 <p align="center">
-<img src="https://telegra.ph/file/b5c0c1aeb6c4a54b1f5f4.jpg" alt="Script Kiddie">
+
 
     
 ## [+] Find Me on :
